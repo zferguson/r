@@ -1,4 +1,3 @@
-x <- 1
-y <- 2
-
-( x + y ) ^ y
+get_yesterday <- function() {
+ return( Sys.Date() - 1 )
+}
