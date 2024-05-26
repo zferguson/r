@@ -1,8 +1,5 @@
-# Team-64
- Team 64's group project GitHub repository for MGT 6203 (Canvas) Fall of 2023 semester.
+# Heart Disease Prediction
  
-# Smart Wellness: Using fitness watches and their apps to bring early detection of heart disease to the general populace
-
 ## Overview
 This project uses a [heart disease data set from Kaggle](https://www.kaggle.com/fedesoriano/heart-failure-prediction) for classification models in R to help inform prospective business integration with smart health technology. The project includes an R markdown script that runs various classification models. It is intended to determine the best model for identifying heart disease in patients using a dataset with hundreds of observations of patients from around the world.
 
